@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my skills<br>I'm looking to collaborate on software developer-related content creation<br>I'm looking for help with developing a chrome extension that can find Playwright locators<br>I'm currently learning full stack web development<br>Ask me about web development<br>Fun fact - I am lazy but smart
+- 🔭I'm currently working on my skills<br>I'm looking to collaborate on software developer-related content creation<br>I'm looking for help with developing a chrome extension that can find Playwright locators<br>I'm currently learning full stack web development<br>Ask me about web development<br>Fun fact - I am lazy but smart
 
 
 ## 🌐 Socials:
