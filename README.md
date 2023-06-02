@@ -12,8 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saurabhkumar5&theme=radical&hide_border=true)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkumar5&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkumar5&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkumar5)](https://github.com/saurabhkumar5/github-readme-stats)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saurabhkumar5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
